@@ -1,0 +1,62 @@
+$
+    >MM
+    ABASTOS_PAM32N11  2020-07-29  15:03:05  WE
+    USCAR057  0130/002C/0003  
+    <5297:DN=K'5556940000.
+    SEQ=6934.2020-07-29 
+    COM=5297
+    JOB SUBMITTED
+    
+    
+                    
+    RESULT FOLLOWS
+    
+    ABASTOS_PAM32N11  2020-07-29  15:03:20  WE      
+    USCAR057  0130/002C/0003  
+    SEQ=6934.2020-07-29 06561  NJ54EL13   DTHFAA01   NADKFF02    
+    SWA-SAD ITF&SPSRV CMDHDL                                        
+
+       DISPLAY-ANY-SUBSCR                                             SUCCESSFUL
+       -------------------------------------------------------------------------
+       AREACODE = 55                                      
+       DN       = 56940000                                
+                 
+       LCEID    = H'7AE0                                  
+       NA       = H'20                                    
+       LAN      = 1                                       
+       SUBTYP   = ASUBS   
+                 
+       CPC      = ORDIN   
+       SUBGRP   = SUBGNBR: SUBG02            ORGCH  : 003 ORGRTG : 006          
+        
+       CARRIER  = NATCDD : 01                    NATCIC : 123                   
+   
+                  INTCDD : 00                    INTCIC : 123                   
+   
+       OBSERV   = PROV     ORIG              NORMDIR  EXTREP               
+                  PROV     TERM              NORMDIR  EXTREP               
+       CW       = PROV    
+                  CIDCW   
+                  ACTIVE  
+                  NOTCG   
+       CLIP     = PROV    
+                  CALLAPPL LOCALNAT 
+       CFU      = INACTIVE   5521345906                  
+                  PROV    
+                           CLIP    
+       CFB      = PROV    
+                           CLIP    
+       CFNR     = PROV    
+                           CLIP    
+       SCF      = PROV    
+       CF       = MAX    :  5    
+       TPS      = PROV     TYPE : TPSBASIC
+       SDT       
+       LINECHAR = SUBSIG   CBSET  
+       CFVM     = CFBPROV  CFNRPROV
+                  CFBACT   CFNRACT 
+       LANGCAT  = PROV     SPANISH         
+
+       LAST REPORT          NO = 06561
+
+    >
